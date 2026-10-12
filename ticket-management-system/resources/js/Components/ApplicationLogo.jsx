@@ -4,7 +4,7 @@ export default function ApplicationLogo() {
             <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-indigo-600 text-lg font-bold text-white">
                 H
             </div>
-            <span className="text-xl font-bold text-gray-800">TicketManagement</span>
+            <span className="text-xl font-bold text-gray-800">HelpDesk</span>
         </div>
     );
 }
